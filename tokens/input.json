@@ -24,6 +24,10 @@
     }
   },
   "spacing": {
+    "xs": {
+      "value": 2,
+      "type": "spacing"
+    },
     "sm": {
       "value": 4,
       "type": "spacing"
